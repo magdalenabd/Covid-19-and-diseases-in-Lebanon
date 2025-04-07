@@ -8,7 +8,7 @@ import random
 st.set_page_config(page_title="COVID-19 Dashboard", layout="wide")
 
 # File path to your dataset
-csv_path = r"C:\Users\magda\Desktop\dataset (1).csv"
+csv_path = r"C:\Users\magda\Downloads\dataset (1).csv"
 
 # Load the dataset
 try:
