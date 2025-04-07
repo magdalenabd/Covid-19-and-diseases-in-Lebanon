@@ -98,9 +98,3 @@ st.markdown("""
 
 If you have any questions or feedback about this dashboard, feel free to reach out at magdalena.bodouris@yahoo.com
 """)
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/magdalenab/lebanon-covid-dashboard.git
-git push -u origin main
