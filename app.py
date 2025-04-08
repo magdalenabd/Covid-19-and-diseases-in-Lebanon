@@ -3,6 +3,8 @@ import pandas as pd
 import numpy as np
 import math
 import random
+import plotly.express as px
+
 
 # Set page title
 st.set_page_config(page_title="COVID-19 Dashboard", layout="wide")
